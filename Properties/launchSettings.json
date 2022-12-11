@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "w07ontvangeriotcloud": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7279",
+      "launchBrowser": false
+    }
+  }
+}
